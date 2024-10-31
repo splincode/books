@@ -16,7 +16,7 @@
 - [x]  [Семь навыков высокоэффективных людей / Стивен Кови](https://www.litres.ru/book/stiven-kovi/sem-navykov-vysokoeffektivnyh-ludey-na-praktike-dnevnik-formir-69018265/)
 - [x]  [Джедайские техники / Максим Дорофеев](https://www.litres.ru/book/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-23590168/)
 - [x]  [Драйв / Дэниел Пинк](https://www.litres.ru/book/daniel-h-pink/drayv-chto-na-samom-dele-nas-motiviruet-5019930/)
-- [x]  [Открывая организации будущего / Фредерик Лалу](https://www.litres.ru/audiobook/frederik-lalu/otkryvaya-organizacii-buduschego-29186270/)
+- [x]  [Открывая организации будущего / Фредерик Лалу](https://www.litres.ru/book/frederik-lalu/otkryvaya-organizacii-buduschego-12472950/)
 - [x]  [Иностранный для взрослых / Крез Роджер](https://www.litres.ru/book/richard-roberts-1062/inostrannyy-dlya-vzroslyh-kak-vyuchit-novyy-yazyk-v-l-22770721/)
 
 ### Программирование
@@ -24,4 +24,4 @@
 - [x]  [Программист-фанатик / Чед Фаулер](https://www.litres.ru/book/ched-fauler/programmist-fanatik-9535814/)
 - [x]  [Как пасти котов / Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
 - [x]  [Чистый код / Роберт Мартин](https://www.litres.ru/book/robert-s-martin/chistyy-kod-sozdanie-analiz-i-refaktoring-pdf-epub-6444478/)
-- [x]  [Мифический человеко-месяц, или Как создаются программные системы / Фредерик Брукс](https://www.litres.ru/book/frederik-bruks/mificheskiy-cheloveko-mesyac-ili-kak-sozdautsya-programmnye-58154399/)
+- [x]  [Мифический человеко-месяц / Фредерик Брукс](https://www.litres.ru/book/frederik-bruks/mificheskiy-cheloveko-mesyac-ili-kak-sozdautsya-programmnye-58154399/)
