@@ -1,6 +1,6 @@
 # Прочтенные книги
 
-### Психология
+### Психология и философия
 
 - [x]  [Любовь на всю жизнь / Хелен Хант](https://www.litres.ru/book/harvill-hendriks/lubov-na-vsu-zhizn-rukovodstvo-dlya-par-47011374/)
 - [x]  [Ненасильственное общение / Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-v-povsednevnoy-zhizni-praktic-67722486/)
