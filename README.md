@@ -1,6 +1,6 @@
 # Прочтенные книги
 
-### Психология и философия
+### Психология, социология или философия
 
 - [x]  [Любовь на всю жизнь / Хелен Хант](https://www.litres.ru/book/harvill-hendriks/lubov-na-vsu-zhizn-rukovodstvo-dlya-par-47011374/)
 - [x]  [Ненасильственное общение / Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-v-povsednevnoy-zhizni-praktic-67722486/)
@@ -19,7 +19,7 @@
 - [x]  [Открывая организации будущего / Фредерик Лалу](https://www.litres.ru/book/frederik-lalu/otkryvaya-organizacii-buduschego-12472950/)
 - [x]  [Иностранный для взрослых / Крез Роджер](https://www.litres.ru/book/richard-roberts-1062/inostrannyy-dlya-vzroslyh-kak-vyuchit-novyy-yazyk-v-l-22770721/)
 
-### Прикладное и техническое
+### Прикладное или техническое
 
 - [x]  [Программист-фанатик / Чед Фаулер](https://www.litres.ru/book/ched-fauler/programmist-fanatik-9535814/)
 - [x]  [Как пасти котов / Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
