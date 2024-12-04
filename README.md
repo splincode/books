@@ -26,3 +26,12 @@
 - [x]  [Как пасти котов / Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
 - [x]  [Чистый код / Роберт Мартин](https://www.litres.ru/book/robert-s-martin/chistyy-kod-sozdanie-analiz-i-refaktoring-pdf-epub-6444478/)
 - [x]  [Мифический человеко-месяц / Фредерик Брукс](https://www.litres.ru/book/frederik-bruks/mificheskiy-cheloveko-mesyac-ili-kak-sozdautsya-programmnye-58154399/)
+
+### Художественные
+
+- [x] [Война и мир. В 4-х томах](https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-kollekcionnoe-illustrirovannoe-izdanie-69495367/)
+- [x] [Преступление и наказание](https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-64758176/)
+- [x] [Отцы и дети](https://www.litres.ru/book/ivan-turgenev/otcy-i-deti-24312573/)
+- [x] [Леди Макбет Мценского уезда](https://www.litres.ru/book/nikolay-leskov/ledi-makbet-mcenskogo-uezda-175270/)
+- [x] [Евгений Онегин](https://www.litres.ru/book/aleksandr-pushkin/evgeniy-onegin-19068701/)
+- [x] [Герой нашего времени](https://www.litres.ru/book/mihail-lermontov/geroy-nashego-vremeni-70932181/)
