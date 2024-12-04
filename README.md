@@ -10,6 +10,7 @@
 - [x]  [Тысячеликий герой / Джозеф Кэмпбелл](https://www.litres.ru/book/dzhozef-kempbell/tysyachelikiy-geroy-33848058/)
 - [x]  [Терапия одиночества / Дэвид Бернс](https://www.litres.ru/book/david-d-burns/terapiya-odinochestva-kak-nauchitsya-obschatsya-druzhit-i-lu-69015931/)
 - [x]  [Терапия настроения / Дэвид Бернс](https://www.litres.ru/book/david-d-burns/terapiya-nastroeniya-klinicheski-dokazannyy-sposob-pobedit-d-40975505/)
+- [x]  [Интроверты](https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/)
 
 ### Тайм-менеджмент
 
