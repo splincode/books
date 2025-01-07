@@ -11,6 +11,7 @@
 - [x]  [Терапия одиночества / Дэвид Бернс](https://www.litres.ru/book/david-d-burns/terapiya-odinochestva-kak-nauchitsya-obschatsya-druzhit-i-lu-69015931/)
 - [x]  [Терапия настроения / Дэвид Бернс](https://www.litres.ru/book/david-d-burns/terapiya-nastroeniya-klinicheski-dokazannyy-sposob-pobedit-d-40975505/)
 - [x]  [Интроверты / Сьюзан Кейн](https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/)
+- [ ]  [Монах, который продал свой «феррари» / Робин Шарма](https://www.litres.ru/book/robin-sharma-2/monah-kotoryy-prodal-svoy-ferrari-6564847/)
 
 ### Тайм-менеджмент
 
