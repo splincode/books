@@ -12,6 +12,7 @@
 - [x]  [Терапия настроения / Дэвид Бернс](https://www.litres.ru/book/david-d-burns/terapiya-nastroeniya-klinicheski-dokazannyy-sposob-pobedit-d-40975505/)
 - [x]  [Интроверты / Сьюзан Кейн](https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/)
 - [x]  [Монах, который продал свой «феррари» / Робин Шарма](https://www.litres.ru/book/robin-sharma-2/monah-kotoryy-prodal-svoy-ferrari-6564847/)
+- [x]  [Важные 40+. 12 причин, почему средний возраст бесценен](https://www.litres.ru/book/chip-konli/vazhnye-40-12-prichin-pochemu-sredniy-vozrast-bescenen-dorozhna-71285941/)
 
 ### Тайм-менеджмент
 
