@@ -37,3 +37,5 @@
 - [x] [Леди Макбет Мценского уезда](https://www.litres.ru/book/nikolay-leskov/ledi-makbet-mcenskogo-uezda-175270/)
 - [x] [Евгений Онегин](https://www.litres.ru/book/aleksandr-pushkin/evgeniy-onegin-19068701/)
 - [x] [Герой нашего времени](https://www.litres.ru/book/mihail-lermontov/geroy-nashego-vremeni-70932181/)
+- [x] [Граф Монте-Кристо / Александр Дюма](https://www.litres.ru/book/aleksandr-duma/graf-monte-kristo-122729/)
+- [x] [Красное и черное / Стендаль](https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/)
