@@ -1,10 +1,8 @@
 # Прочтенные книги
 
-### Психология, социология или философия
-
-- [x]  [Любовь на всю жизнь / Хелен Хант](https://www.litres.ru/book/harvill-hendriks/lubov-na-vsu-zhizn-rukovodstvo-dlya-par-47011374/)
-- [x]  [Ненасильственное общение / Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-v-povsednevnoy-zhizni-praktic-67722486/)
-- [x]  [Сказать жизни "Да!" / Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
+- [x]  [<b>2023 / Психология</b> / Любовь на всю жизнь / Хелен Хант](https://www.litres.ru/book/harvill-hendriks/lubov-na-vsu-zhizn-rukovodstvo-dlya-par-47011374/)
+- [x]  [<b>2021 / Психология</b> / Ненасильственное общение / Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-v-povsednevnoy-zhizni-praktic-67722486/)
+- [x]  [<b>2014 / Психология</b> / Сказать жизни "Да!" / Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
 - [x]  [Как хочет женщина / Эмили Нагоски](https://www.litres.ru/book/emili-nagoski/kak-hochet-zhenschina-master-klass-po-nauke-seksa-19405358/)
 - [x]  [Важные годы / Мэг Джей](https://www.litres.ru/book/meg-dzhey/vazhnye-gody-pochemu-ne-stoit-otkladyvat-zhizn-na-potom-7230542/)
 - [x]  [Тысячеликий герой / Джозеф Кэмпбелл](https://www.litres.ru/book/dzhozef-kempbell/tysyachelikiy-geroy-33848058/)
