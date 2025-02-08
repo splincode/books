@@ -13,7 +13,7 @@
 - [x] [<b>2021 / Психология</b> / Ненасильственное общение / Маршалл Розенберг](https://www.litres.ru/book/marshall-rozenberg/nenasilstvennoe-obschenie-v-povsednevnoy-zhizni-praktic-67722486/)
 - [x] [<b>2020 / Психология</b> Как хочет женщина / Эмили Нагоски](https://www.litres.ru/book/emili-nagoski/kak-hochet-zhenschina-master-klass-po-nauke-seksa-19405358/)
 - [x] [<b>2020 / Прикладное</b> / Мифический человеко-месяц / Фредерик Брукс](https://www.litres.ru/book/frederik-bruks/mificheskiy-cheloveko-mesyac-ili-kak-sozdautsya-programmnye-58154399/)
-- [x] [<b>2019 / Тайм-менеджмент</b> Джедайские техники / Максим Дорофеев](https://www.litres.ru/book/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-23590168/)
+- [x] [<b>2019 / Тайм-менеджмент</b> / Джедайские техники / Максим Дорофеев](https://www.litres.ru/book/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-23590168/)
 - [x] [<b>2018 / Прикладное</b> / Чистый код / Роберт Мартин](https://www.litres.ru/book/robert-s-martin/chistyy-kod-sozdanie-analiz-i-refaktoring-pdf-epub-6444478/)
 - [x] [<b>2018 / Прикладное</b> / Как пасти котов / Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
 - [x] [<b>2017 / Психология</b> / Монах, который продал свой «феррари» / Робин Шарма](https://www.litres.ru/book/robin-sharma-2/monah-kotoryy-prodal-svoy-ferrari-6564847/)
