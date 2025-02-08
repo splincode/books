@@ -22,6 +22,7 @@
 - [x] [<b>2014 / Художественное</b> Красное и черное / Стендаль](https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/)
 - [x] [<b>2014 / Психология</b> / Сказать жизни "Да!" / Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
 - [x] [<b>2014 / Тайм-менеджмент</b> / Семь навыков высокоэффективных людей / Стивен Кови](https://www.litres.ru/book/stiven-kovi/sem-navykov-vysokoeffektivnyh-ludey-na-praktike-dnevnik-formir-69018265/)
+- [x] [<b>2013 / Религия</b> / Внутренний свет. Календарь медитаций Ошо на 365 дней](https://www.litres.ru/book/bhagavan-radzhnish-osh/vnutrenniy-svet-kalendar-meditaciy-osho-na-365-dney-8509776/)
 - [x] [<b>2012 / Художественное</b> / Война и мир. В 4-х томах](https://www.litres.ru/book/lev-tolstoy/voyna-i-mir-kollekcionnoe-illustrirovannoe-izdanie-69495367/)
 - [x] [<b>2011 / Художественное</b> Преступление и наказание](https://www.litres.ru/book/fedor-dostoevskiy/prestuplenie-i-nakazanie-64758176/)
 - [x] [<b>2010 / Художественное</b> Отцы и дети](https://www.litres.ru/book/ivan-turgenev/otcy-i-deti-24312573/)
