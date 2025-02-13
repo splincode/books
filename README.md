@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Философия</b>. Что такое жизнь? Эрвин Шрёдингер](https://www.litres.ru/book/ervin-shredinger/chto-takoe-zhizn-7766381/chitat-onlayn/)
 - [x] [<b>2025. Психология</b>. Важные 40+. 12 причин, почему средний возраст бесценен. Чип Конли](https://www.litres.ru/book/chip-konli/vazhnye-40-12-prichin-pochemu-sredniy-vozrast-bescenen-dorozhna-71285941/)
 - [x] [<b>2025. Психология</b>. Интроверты. Сьюзан Кейн](https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/)
 - [x] [<b>2024. Психология</b>. Важные годы. Мэг Джей](https://www.litres.ru/book/meg-dzhey/vazhnye-gody-pochemu-ne-stoit-otkladyvat-zhizn-na-potom-7230542/)
