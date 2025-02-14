@@ -19,6 +19,7 @@
 - [x] [<b>2018. Прикладное</b>. Как пасти котов. Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
 - [x] [<b>2017. Психология</b>. Монах, который продал свой «феррари». Робин Шарма](https://www.litres.ru/book/robin-sharma-2/monah-kotoryy-prodal-svoy-ferrari-6564847/)
 - [x] [<b>2016. Прикладное</b>. Программист-фанатик. Чед Фаулер](https://www.litres.ru/book/ched-fauler/programmist-fanatik-9535814/)
+- [x] [<b>2015. Художественное</b>. Фауст. Иоганн Вольфганг фон Гёте](https://www.litres.ru/book/iogann-volfgang-fon-gete/faust-66669668/chitat-onlayn/)
 - [x] [<b>2015. Художественное</b>. Граф Монте-Кристо. Александр Дюма](https://www.litres.ru/book/aleksandr-duma/graf-monte-kristo-122729/)
 - [x] [<b>2014. Художественное</b>. Красное и черное. Стендаль](https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/)
 - [x] [<b>2014. Психология</b>. Сказать жизни "Да!". Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
