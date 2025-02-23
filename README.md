@@ -21,6 +21,7 @@
 - [x] [<b>2016. Прикладное</b>. Программист-фанатик. Чед Фаулер](https://www.litres.ru/book/ched-fauler/programmist-fanatik-9535814/)
 - [x] [<b>2015. Художественное</b>. Фауст. Иоганн Вольфганг фон Гёте](https://www.litres.ru/book/iogann-volfgang-fon-gete/faust-66669668/chitat-onlayn/)
 - [x] [<b>2015. Художественное</b>. Граф Монте-Кристо. Александр Дюма](https://www.litres.ru/book/aleksandr-duma/graf-monte-kristo-122729/)
+- [x] [<b>2014. Художественное</b>. В пьянящей тишине. Альберт Санчес Пиньоль](https://www.ozon.ru/product/v-pyanyashchey-tishine-pinol-albert-sanches-1874297864/)
 - [x] [<b>2014. Художественное</b>. Красное и черное. Стендаль](https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/)
 - [x] [<b>2014. Психология</b>. Сказать жизни "Да!". Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
 - [x] [<b>2014. Тайм-менеджмент</b>. Семь навыков высокоэффективных людей. Стивен Кови](https://www.litres.ru/book/stiven-kovi/sem-navykov-vysokoeffektivnyh-ludey-na-praktike-dnevnik-formir-69018265/)
