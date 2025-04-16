@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Философия</b>. Искусство быть. Эрих Фромм](https://litres.com/book/erih-fromm/iskusstvo-byt-31513990/)
 - [x] [<b>2025. Философия</b>. Бунтующий человек. Миф о Сизифе. Альбер Камю](https://www.litres.ru/book/alber-kamu/buntuuschiy-chelovek-mif-o-sizife-65071637/)
 - [x] [<b>2025. Философия</b>. Что такое жизнь? Эрвин Шрёдингер](https://www.litres.ru/book/ervin-shredinger/chto-takoe-zhizn-7766381/chitat-onlayn/)
 - [x] [<b>2025. Психология</b>. Важные 40+. 12 причин, почему средний возраст бесценен. Чип Конли](https://www.litres.ru/book/chip-konli/vazhnye-40-12-prichin-pochemu-sredniy-vozrast-bescenen-dorozhna-71285941/)
