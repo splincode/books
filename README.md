@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Философия</b>. Искусство любить. Эрих Фромм](https://litres.com/audiobook/erih-fromm/iskusstvo-lubit-12934196/)
 - [x] [<b>2025. Философия</b>. Искусство быть. Эрих Фромм](https://litres.com/book/erih-fromm/iskusstvo-byt-31513990/)
 - [x] [<b>2025. Философия</b>. Бунтующий человек. Миф о Сизифе. Альбер Камю](https://www.litres.ru/book/alber-kamu/buntuuschiy-chelovek-mif-o-sizife-65071637/)
 - [x] [<b>2025. Философия</b>. Что такое жизнь? Эрвин Шрёдингер](https://www.litres.ru/book/ervin-shredinger/chto-takoe-zhizn-7766381/chitat-onlayn/)
