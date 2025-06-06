@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
 - [x] [<b>2025. Философия</b>. Искусство любить. Эрих Фромм](https://litres.com/audiobook/erih-fromm/iskusstvo-lubit-12934196/)
 - [x] [<b>2025. Философия</b>. Искусство быть. Эрих Фромм](https://litres.com/book/erih-fromm/iskusstvo-byt-31513990/)
 - [x] [<b>2025. Философия</b>. Бунтующий человек. Миф о Сизифе. Альбер Камю](https://www.litres.ru/book/alber-kamu/buntuuschiy-chelovek-mif-o-sizife-65071637/)
