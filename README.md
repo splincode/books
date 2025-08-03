@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Психология</b>. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
 - [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
 - [x] [<b>2025. Философия</b>. Искусство любить. Эрих Фромм](https://litres.com/audiobook/erih-fromm/iskusstvo-lubit-12934196/)
 - [x] [<b>2025. Философия</b>. Искусство быть. Эрих Фромм](https://litres.com/book/erih-fromm/iskusstvo-byt-31513990/)
