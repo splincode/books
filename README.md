@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу, и другие истории из врачебной практики](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
 - [x] [<b>2025. Психология</b>. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
 - [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
 - [x] [<b>2025. Философия</b>. Искусство любить. Эрих Фромм](https://litres.com/audiobook/erih-fromm/iskusstvo-lubit-12934196/)
