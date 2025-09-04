@@ -1,5 +1,6 @@
 # Прочтенные книги
 
+- [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
 - [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
 - [x] [<b>2025. Психология</b>. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
 - [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
