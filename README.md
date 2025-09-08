@@ -1,4 +1,4 @@
-# Прочтенные книги
+# Прочитанные книги
 
 - [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
 - [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
