@@ -26,6 +26,7 @@
 - [x] [<b>2018. Прикладное</b>. Как пасти котов. Дж. Ханк Рейнвотер](https://www.litres.ru/book/dzh-hank-reynvoter/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovody-167876/)
 - [x] [<b>2017. Психология</b>. Монах, который продал свой «феррари». Робин Шарма](https://www.litres.ru/book/robin-sharma-2/monah-kotoryy-prodal-svoy-ferrari-6564847/)
 - [x] [<b>2016. Прикладное</b>. Программист-фанатик. Чед Фаулер](https://www.litres.ru/book/ched-fauler/programmist-fanatik-9535814/)
+- [x] [<b>2016. Прикладное</b>. JavaScript: сильные стороны. Дуглас Крокфорд](https://www.litres.ru/book/duglas-krokford/javascript-silnye-storony-3984705/)
 - [x] [<b>2015. Художественное</b>. Фауст. Иоганн Вольфганг фон Гёте](https://www.litres.ru/book/iogann-volfgang-fon-gete/faust-66669668/chitat-onlayn/)
 - [x] [<b>2015. Художественное</b>. Граф Монте-Кристо. Александр Дюма](https://www.litres.ru/book/aleksandr-duma/graf-monte-kristo-122729/)
 - [x] [<b>2014. Художественное</b>. В пьянящей тишине. Альберт Санчес Пиньоль](https://www.ozon.ru/product/v-pyanyashchey-tishine-pinol-albert-sanches-1874297864/)
