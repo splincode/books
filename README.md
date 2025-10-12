@@ -1,9 +1,10 @@
 # Прочитанные книги
 
-- [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
-- [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
+- [x] [<b>2025. Художественная</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
+- [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
+- [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу. Оливер Сакс](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
 - [x] [<b>2025. Психология</b>. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
-- [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
+- [x] [<b>2025. Экономика</b>. Долг: первые 5000 лет истории. Дэвид Гребер](https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/)
 - [x] [<b>2025. Философия</b>. Искусство любить. Эрих Фромм](https://litres.com/audiobook/erih-fromm/iskusstvo-lubit-12934196/)
 - [x] [<b>2025. Философия</b>. Искусство быть. Эрих Фромм](https://litres.com/book/erih-fromm/iskusstvo-byt-31513990/)
 - [x] [<b>2025. Философия</b>. Бунтующий человек. Миф о Сизифе. Альбер Камю](https://www.litres.ru/book/alber-kamu/buntuuschiy-chelovek-mif-o-sizife-65071637/)
