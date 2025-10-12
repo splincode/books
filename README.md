@@ -1,6 +1,6 @@
 # Прочитанные книги
 
-- [x] [<b>2025. Художественная</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
+- [x] [<b>2025. Художественное</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
 - [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
 - [x] [<b>2025. Нейропсихология</b>. Человек, который принял жену за шляпу. Оливер Сакс](https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/)
 - [x] [<b>2025. Психология</b>. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
