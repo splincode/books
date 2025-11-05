@@ -45,5 +45,5 @@
 - [x] [<b>2010. Художественное</b>. Горе от ума. Александр Грибоедов](https://www.litres.ru/book/aleksandr-griboedov/gore-ot-uma-71055589/)
 - [x] [<b>2010. Художественное</b>. Гроза. Александр Островский](https://www.litres.ru/book/aleksandr-ostrovskiy/groza-172629/)
 - [x] [<b>2009. Художественное</b>. Евгений Онегин](https://www.litres.ru/book/aleksandr-pushkin/evgeniy-onegin-19068701/)
-- [x] [<b>2009. Ревизор</b>. Николай Гоголь](https://www.litres.ru/book/nikolay-gogol/revizor-173499/chitat-onlayn/)
+- [x] [<b>2009. Художественное</b>. Ревизор. Николай Гоголь](https://www.litres.ru/book/nikolay-gogol/revizor-173499/chitat-onlayn/)
 - [x] [<b>2008. Художественное</b>. Леди Макбет Мценского уезда](https://www.litres.ru/book/nikolay-leskov/ledi-makbet-mcenskogo-uezda-175270/)
