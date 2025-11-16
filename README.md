@@ -1,5 +1,6 @@
 # Прочитанные книги
 
+- [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 1. Внутренний раздел](https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181)
 - [x] [<b>2025. Художественное</b>. Цветы для Элджернона. Дэниел Киз](https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/)
 - [x] [<b>2025. Художественное</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
 - [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
