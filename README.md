@@ -1,6 +1,6 @@
 # Прочитанные книги
 
-- [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 1. Внутренний раздел](https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181)
+- [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 1. Внутренний раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181)
 - [x] [<b>2025. Художественное</b>. Цветы для Элджернона. Дэниел Киз](https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/)
 - [x] [<b>2025. Художественное</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
 - [x] [<b>2025. История</b>. К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков](https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/)
@@ -31,6 +31,7 @@
 - [x] [<b>2016. Прикладное</b>. JavaScript: сильные стороны. Дуглас Крокфорд](https://www.litres.ru/book/duglas-krokford/javascript-silnye-storony-3984705/)
 - [x] [<b>2015. Художественное</b>. Фауст. Иоганн Вольфганг фон Гёте](https://www.litres.ru/book/iogann-volfgang-fon-gete/faust-66669668/chitat-onlayn/)
 - [x] [<b>2015. Художественное</b>. Граф Монте-Кристо. Александр Дюма](https://www.litres.ru/book/aleksandr-duma/graf-monte-kristo-122729/)
+- [x] [<b>2014. Прикладное</b>. Just for Fun. Рассказ нечаянного революционера. Линус Торвальдс и Дэвид Даймонд](https://www.livelib.ru/book/1000253364-just-for-fun-rasskaz-nechayannogo-revolyutsionera-linus-torvalds-devid-dajmond)
 - [x] [<b>2014. Художественное</b>. В пьянящей тишине. Альберт Санчес Пиньоль](https://www.ozon.ru/product/v-pyanyashchey-tishine-pinol-albert-sanches-1874297864/)
 - [x] [<b>2014. Художественное</b>. Красное и черное. Стендаль](https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/)
 - [x] [<b>2014. Психология</b>. Сказать жизни "Да!". Виктор Франкл](https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/)
