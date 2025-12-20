@@ -1,5 +1,6 @@
 # Прочитанные книги
 
+- [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 2. Внешний раздел. Смешанный раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-2-vnesnij-razdel-smesannyj-razdel-3107182)
 - [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 1. Внутренний раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181)
 - [x] [<b>2025. Художественное</b>. Цветы для Элджернона. Дэниел Киз](https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/)
 - [x] [<b>2025. Художественное</b>. Маленький принц. Антуан де Сент-Экзюпери](https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/)
