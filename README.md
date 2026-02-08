@@ -1,5 +1,6 @@
 # Прочитанные книги
 
+- [x] [<b>2026. Прикладное</b>. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Клеппман Мартин](https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirovanie-mass-39100996/)
 - [x] [<b>2026. Философия</b>. Чжуан-цзы. Книга 2. Внешний раздел. Смешанный раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-2-vnesnij-razdel-smesannyj-razdel-3107182)
 - [x] [<b>2025. Философия</b>. Чжуан-цзы. Книга 1. Внутренний раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181)
 - [x] [<b>2025. Художественное</b>. Цветы для Элджернона. Дэниел Киз](https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/)
