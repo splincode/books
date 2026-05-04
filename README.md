@@ -1,5 +1,6 @@
 # Прочитанные книги
 
+- [x] [<b>2026. Философия</b>. Философия туриста. Хироки Адзума](https://www.litres.ru/book/hiroki-adzuma/filosofiya-turista-72594823/)
 - [x] [<b>2026. Прикладное</b>. Follow us! Английский для начинающих. Марина Воронцова](https://www.litres.ru/book/marina-voroncova-335/follow-us-angliyskiy-dlya-nachinauschih-ot-veduschih-72478582/)
 - [x] [<b>2026. Прикладное</b>. Высоконагруженные приложения. Программирование, масштабирование, поддержка. Клеппман Мартин](https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirovanie-mass-39100996/)
 - [x] [<b>2026. Философия</b>. Чжуан-цзы. Книга 2. Внешний раздел. Смешанный раздел. Владимир Малявин](https://www.chitai-gorod.ru/product/czuan-czy-kniga-2-vnesnij-razdel-smesannyj-razdel-3107182)
