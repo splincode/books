@@ -12,6 +12,7 @@
 
 ### Тайм-менеджмент и самоорганизация
 
+* [x] [<b>2026</b>. НИ СЫ. Будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед. Джен Синсеро](https://www.litres.ru/book/dzhen-sinsero/ni-sy-bud-uveren-v-svoih-silah-i-ne-pozvolyay-somneniyam-mes-73728558/)
 * [x] [<b>2026</b>. Магия утра. Как первый час дня определяет ваш успех. Хэл Элрод](https://www.litres.ru/book/hel-elrod/magiya-utra-kak-pervyy-chas-dnya-opredelyaet-vash-uspeh-19063017/chitat-onlayn/)
 * [x] [<b>2023</b>. Иностранный для взрослых. Крез Роджер](https://www.litres.ru/book/richard-roberts-1062/inostrannyy-dlya-vzroslyh-kak-vyuchit-novyy-yazyk-v-l-22770721/)
 * [x] [<b>2021</b>. Открывая организации будущего. Фредерик Лалу](https://www.litres.ru/book/frederik-lalu/otkryvaya-organizacii-buduschego-12472950/)
