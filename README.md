@@ -32,7 +32,8 @@
 
 ### 🧩 Психология
 
-* [x] [2025. Дары несовершенства. Как полюбить себя таким, какой ты есть](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
+* [x] [2026. Внутренняя опора. В любой ситуации возвращайтесь к себе. Анна Бабич](https://www.litres.ru/book/anna-babich-32422239/vnutrennyaya-opora-v-luboy-situacii-vozvraschaytes-k-69397075/)
+* [x] [2025. Дары несовершенства. Как полюбить себя таким, какой ты есть. Брене Браун](https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/)
 * [x] [2025. Важные 40+. 12 причин, почему средний возраст бесценен. Чип Конли](https://www.litres.ru/book/chip-konli/vazhnye-40-12-prichin-pochemu-sredniy-vozrast-bescenen-dorozhna-71285941/)
 * [x] [2025. Интроверты. Сьюзан Кейн](https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/)
 * [x] [2024. Важные годы. Мэг Джей](https://www.litres.ru/book/meg-dzhey/vazhnye-gody-pochemu-ne-stoit-otkladyvat-zhizn-na-potom-7230542/)
