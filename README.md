@@ -2,6 +2,38 @@
 
 ## 2026
 
+* [x] Внутренняя опора. В любой ситуации возвращайтесь к себе. Анна Бабич
+  <br>
+  <sup>
+    Психология •
+    <a href="notes/2026.md#book-07" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/anna-babich-32422239/vnutrennyaya-opora-v-luboy-situacii-vozvraschaytes-k-69397075/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] НИ СЫ. Будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед. Джен Синсеро
+  <br>
+  <sup>
+    Тайм-менеджмент •
+    <a href="notes/2026.md#book-03" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/dzhen-sinsero/ni-sy-bud-uveren-v-svoih-silah-i-ne-pozvolyay-somneniyam-mes-73728558/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Магия утра. Как первый час дня определяет ваш успех. Хэл Элрод
+  <br>
+  <sup>
+    Тайм-менеджмент •
+    <a href="notes/2026.md#book-04" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/hel-elrod/magiya-utra-kak-pervyy-chas-dnya-opredelyaet-vash-uspeh-19063017/chitat-onlayn/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Философия туриста. Хироки Адзума
+  <br>
+  <sup>
+    Философия •
+    <a href="notes/2026.md#book-05" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/hiroki-adzuma/filosofiya-turista-72594823/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
 * [x] Follow us! Английский для начинающих. Марина Воронцова
   <br>
   <sup>
@@ -15,31 +47,7 @@
   <sup>
     Прикладное •
     <a href="notes/2026.md#book-02" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhenные-prilozheniya-programmirovanie-mass-39100996/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] НИ СЫ. Будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед. Джен Синсеро
-  <br>
-  <sup>
-    Тайм-менеджмент и самоорганизация •
-    <a href="notes/2026.md#book-03" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/dzhen-sinsero/ni-sy-bud-uveren-v-svoih-silah-i-ne-pozvolyay-somneniyam-mes-73728558/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Магия утра. Как первый час дня определяет ваш успех. Хэл Элрод
-  <br>
-  <sup>
-    Тайм-менеджмент и самоорганизация •
-    <a href="notes/2026.md#book-04" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/hel-elrod/magiya-utra-kak-pervyy-chas-dnya-opredelyaet-vash-uspeh-19063017/chitat-onlayn/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Философия туриста. Хироки Адзума
-  <br>
-  <sup>
-    Философия •
-    <a href="notes/2026.md#book-05" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/hiroki-adzuma/filosofiya-turista-72594823/" target="_blank">Ссылка на книгу</a>
+    <a href="https://www.litres.ru/book/martin-kleppman-1733/vysokonagruzhennye-prilozheniya-programmirovanie-mass-39100996/" target="_blank">Ссылка на книгу</a>
   </sup>
 
 * [x] Чжуан-цзы. Книга 2. Внешний раздел. Смешанный раздел. Владимир Малявин
@@ -50,14 +58,6 @@
     <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-2-vnesnij-razdel-smesannyj-razdel-3107182" target="_blank">Ссылка на книгу</a>
   </sup>
 
-* [x] Внутренняя опора. В любой ситуации возвращайтесь к себе. Анна Бабич
-  <br>
-  <sup>
-    Психология •
-    <a href="notes/2026.md#book-07" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/anna-babich-32422239/vnutrennyaya-opora-v-luboy-situacii-vozvraschaytes-k-69397075/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
 ## 2025
 
 * [x] Чжуан-цзы. Книга 1. Внутренний раздел. Владимир Малявин
@@ -66,6 +66,54 @@
     Философия •
     <a href="notes/2025.md#book-01" target="_blank">Конспект</a> •
     <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Цветы для Элджернона. Дэниел Киз
+  <br>
+  <sup>
+    Художественное •
+    <a href="notes/2025.md#book-12" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Маленький принц. Антуан де Сент-Экзюпери
+  <br>
+  <sup>
+    Художественное •
+    <a href="notes/2025.md#book-13" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков
+  <br>
+  <sup>
+    История •
+    <a href="notes/2025.md#book-10" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Человек, который принял жену за шляпу. Оливер Сакс
+  <br>
+  <sup>
+    Нейропсихология •
+    <a href="notes/2025.md#book-09" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Дары несовершенства. Как полюбить себя таким, какой ты есть. Брене Браун
+  <br>
+  <sup>
+    Психология •
+    <a href="notes/2025.md#book-06" target="_blank">Конспект</a> •
+    <a href="https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Долг: первые 5000 лет истории. Дэвид Гребер
+  <br>
+  <sup>
+    Экономика •
+    <a href="notes/2025.md#book-11" target="_blank">Конспект</a> •
+    <a href="https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/" target="_blank">Ссылка на книгу</a>
   </sup>
 
 * [x] Искусство любить. Эрих Фромм
@@ -100,14 +148,6 @@
     <a href="https://www.litres.ru/book/ervin-shredinger/chto-takoe-zhizn-7766381/chitat-onlayn/" target="_blank">Ссылка на книгу</a>
   </sup>
 
-* [x] Дары несовершенства. Как полюбить себя таким, какой ты есть. Брене Браун
-  <br>
-  <sup>
-    Психология •
-    <a href="notes/2025.md#book-06" target="_blank">Конспект</a> •
-    <a href="https://litres.com/book/brene-braun/dary-nesovershenstva-kak-polubit-sebya-takim-kakoy-ty-est-6741080/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
 * [x] Важные 40+. 12 причин, почему средний возраст бесценен. Чип Конли
   <br>
   <sup>
@@ -122,46 +162,6 @@
     Психология •
     <a href="notes/2025.md#book-08" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/audiobook/suzan-keyn/introverty-56443553/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Человек, который принял жену за шляпу. Оливер Сакс
-  <br>
-  <sup>
-    Нейропсихология •
-    <a href="notes/2025.md#book-09" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/oliver-saks/chelovek-kotoryy-prinyal-zhenu-za-shlyapu-i-drugie-istorii-iz-159992/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] К северу от 38-й параллели. Как живут в КНДР. Андрей Ланьков
-  <br>
-  <sup>
-    История •
-    <a href="notes/2025.md#book-10" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/andrey-nikolaevich-lankov/k-severu-ot-38-y-paralleli-kak-zhivut-v-kndr-53830138/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Долг: первые 5000 лет истории. Дэвид Гребер
-  <br>
-  <sup>
-    Экономика •
-    <a href="notes/2025.md#book-11" target="_blank">Конспект</a> •
-    <a href="https://litres.com/book/devid-greber/dolg-pervye-5000-let-istorii-70245253/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Цветы для Элджернона. Дэниел Киз
-  <br>
-  <sup>
-    Художественное •
-    <a href="notes/2025.md#book-12" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/deniel-kiz/cvety-dlya-eldzhernona-145410/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Маленький принц. Антуан де Сент-Экзюпери
-  <br>
-  <sup>
-    Художественное •
-    <a href="notes/2025.md#book-13" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/antuan-de-sent-ekzuperi/malenkiy-princ-the-little-prince-42593076/" target="_blank">Ссылка на книгу</a>
   </sup>
 
 ## 2024
@@ -203,7 +203,7 @@
 * [x] Иностранный для взрослых. Крез Роджер
   <br>
   <sup>
-    Тайм-менеджмент и самоорганизация •
+    Тайм-менеджмент •
     <a href="notes/2023.md#book-01" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/book/richard-roberts-1062/inostrannyy-dlya-vzroslyh-kak-vyuchit-novyy-yazyk-v-l-22770721/" target="_blank">Ссылка на книгу</a>
   </sup>
@@ -221,7 +221,7 @@
 * [x] Открывая организации будущего. Фредерик Лалу
   <br>
   <sup>
-    Тайм-менеджмент и самоорганизация •
+    Тайм-менеджмент •
     <a href="notes/2021.md#book-01" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/book/frederik-lalu/otkryvaya-organizacii-buduschego-12472950/" target="_blank">Ссылка на книгу</a>
   </sup>
@@ -229,7 +229,7 @@
 * [x] Драйв. Дэниел Пинк
   <br>
   <sup>
-    Тайм-менеджмент и самоорганизация •
+    Тайм-менеджмент •
     <a href="notes/2021.md#book-02" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/book/daniel-h-pink/drayv-chto-na-samom-dele-nas-motiviruet-5019930/" target="_blank">Ссылка на книгу</a>
   </sup>
@@ -257,7 +257,7 @@
 * [x] Джедайские техники. Максим Дорофеев
   <br>
   <sup>
-    Тайм-менеджмент и самоорганизация •
+    Тайм-менеджмент •
     <a href="notes/2019.md#book-01" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/book/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-23590168/" target="_blank">Ссылка на книгу</a>
   </sup>
@@ -336,22 +336,6 @@
     <a href="https://www.livelib.ru/book/1000253364-just-for-fun-rasskaz-nechayannogo-revolyutsionera-linus-torvalds-devid-dajmond" target="_blank">Ссылка на книгу</a>
   </sup>
 
-* [x] Семь навыков высокоэффективных людей. Стивен Кови
-  <br>
-  <sup>
-    Тайм-менеджмент и самоорганизация •
-    <a href="notes/2014.md#book-02" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/stiven-kovi/sem-navykov-vysokoeffektivnyh-ludey-na-praktike-dnevnik-formir-69018265/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
-* [x] Сказать жизни "Да!". Виктор Франкл
-  <br>
-  <sup>
-    Психология •
-    <a href="notes/2014.md#book-03" target="_blank">Конспект</a> •
-    <a href="https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/" target="_blank">Ссылка на книгу</a>
-  </sup>
-
 * [x] В пьянящей тишине. Альберт Санчес Пиньоль
   <br>
   <sup>
@@ -366,6 +350,22 @@
     Художественное •
     <a href="notes/2014.md#book-05" target="_blank">Конспект</a> •
     <a href="https://www.litres.ru/book/stendal/krasnoe-i-chernoe-134566/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Сказать жизни "Да!". Виктор Франкл
+  <br>
+  <sup>
+    Психология •
+    <a href="notes/2014.md#book-03" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/viktor-frankl/skazat-zhizni-da-psiholog-v-konclagere-147113/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
+* [x] Семь навыков высокоэффективных людей. Стивен Кови
+  <br>
+  <sup>
+    Тайм-менеджмент •
+    <a href="notes/2014.md#book-02" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/stiven-kovi/sem-navykov-vysokoeffektivnyh-ludey-na-praktike-dnevnik-formir-69018265/" target="_blank">Ссылка на книгу</a>
   </sup>
 
 ## 2013
