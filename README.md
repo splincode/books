@@ -2,6 +2,14 @@
 
 ## 2026
 
+* [x] Мечтают ли андроиды об электроовцах? Филип К. Дик
+  <br>
+  <sup>
+    Художественное •
+    <a href="notes/2026.md#book-08" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/filip-kindred-dik/mechtaut-li-androidy-ob-elektroovcah-619165/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
 * [x] Внутренняя опора. В любой ситуации возвращайтесь к себе. Анна Бабич
   <br>
   <sup>
@@ -65,7 +73,7 @@
   <sup>
     Философия •
     <a href="notes/2025.md#book-01" target="_blank">Конспект</a> •
-    <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181" target="_blank">Ссылка на книгу</a>
+    <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-smesannyj-razdel-3107181" target="_blank">Ссылка на книгу</a>
   </sup>
 
 * [x] Цветы для Элджернона. Дэниел Киз
