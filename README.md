@@ -2,6 +2,14 @@
 
 ## 2026
 
+* [x] Мечтают ли андроиды об электроовцах? Филип К. Дик
+  <br>
+  <sup>
+    Художественное •
+    <a href="notes/2026.md#book-08" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/filip-kindred-dik/mechtaut-li-androidy-ob-elektroovcah-619165/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
 * [x] Внутренняя опора. В любой ситуации возвращайтесь к себе. Анна Бабич
   <br>
   <sup>
