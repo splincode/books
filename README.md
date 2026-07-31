@@ -73,7 +73,7 @@
   <sup>
     Философия •
     <a href="notes/2025.md#book-01" target="_blank">Конспект</a> •
-    <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-smesannyj-razdel-3107181" target="_blank">Ссылка на книгу</a>
+    <a href="https://www.chitai-gorod.ru/product/czuan-czy-kniga-1-vnutrennij-razdel-3107181" target="_blank">Ссылка на книгу</a>
   </sup>
 
 * [x] Цветы для Элджернона. Дэниел Киз
