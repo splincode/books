@@ -2,6 +2,14 @@
 
 ## 2026
 
+* [x] Ветер крепчает. Тацуо Хори
+  <br>
+  <sup>
+    Художественное •
+    <a href="notes/2026.md#book-09" target="_blank">Конспект</a> •
+    <a href="https://www.litres.ru/book/tacuo-hori/veter-krepchaet-72053827/" target="_blank">Ссылка на книгу</a>
+  </sup>
+
 * [x] Мечтают ли андроиды об электроовцах? Филип К. Дик
   <br>
   <sup>
